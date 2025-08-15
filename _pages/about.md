@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Koustuv Saha"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am a applied economist specializing in international development and gender. I am currently working as a potsdoctoral researcher at the American University of Sharjah. We conducting a choice experiment among the Rabari tribespeople in Rajasthan (India).  
+Hi! I am a applied economist specializing in international development and gender. I am currently working as a potsdoctoral researcher at the American University of Sharjah. We are conducting a choice experiment among the Rabari tribespeople in Rajasthan (India) to estimate the effects .  
 
 A data-driven personal website
 ======

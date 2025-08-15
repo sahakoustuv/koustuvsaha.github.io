@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Koustuv Saha"
+title                    : "Koustuv's Personal Page'"
 title_separator          : "-"
 name                     : &name "Koustuv Saha"
 description              : &description "Postdoctoral Researcher, Dept. of Economics, AUS"
@@ -224,7 +224,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true

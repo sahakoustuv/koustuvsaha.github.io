@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Koustuv's Personal Page'"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Koustuv's Webpage"
 title_separator          : "-"
 name                     : &name "Koustuv Saha"
 description              : &description "Postdoctoral Researcher, Dept. of Economics, AUS"

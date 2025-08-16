@@ -2,6 +2,7 @@
 title: "Strategy and Coordination in RIsky Household Decisions: Evidence from Bangladesh"
 excerpt: "Job Market Paper"
 collection: portfolio
+paperurl: /files/JMP_draft.pdf
 ---
 
 *Abstract*: In patriarchal societies, social norms restrict women’s roles within households to

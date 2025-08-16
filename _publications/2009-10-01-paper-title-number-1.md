@@ -3,7 +3,7 @@ title: "Strategy and Coordination in Risky Household Decisions: Evidence from Ba
 collection: publications
 category: working-papers
 permalink: /publication/jmp-risky-household-decisions
-date: 2025-01-01
+# date: 2025-01-01
 # venue: "Job Market Paper"
 excerpt: "Job Market Paper"
 paperurl: /files/JMP_draft.pdf

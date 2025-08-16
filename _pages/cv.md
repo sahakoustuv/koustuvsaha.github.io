@@ -18,30 +18,23 @@ Education
 * **M.Sc. in Economics**, University of Calcutta (India), 2016
 * **B.Sc. in Economics**, University of Calcutta (India), 2014
 
-Appointments
+Work Experience
 ======
-* **Postdoctoral Researcher**, American University of Sharjah — *2025–Present*
-* **Research Assistant to Dr. Jacob Ricker-Gilbert**, Purdue University — *2024–2025*
-* **Research Assistant to Dr. Kajal Gulati**, Purdue University — *2021–2024*
-* **Research Associate to Dr. Subrata Sarkar & Dr. Jayati Sarkar**, IGIDR — *2019–2020*
-* **Research Assistant to Dr. Subrata Sarkar**, IGIDR — *2017–2019*
+* **Postdoctoral Researcher**, American University of Sharjah — 2025–Present
+* **Research Assistant to Dr. Jacob Ricker-Gilbert**, Purdue University — 2024–2025
+* **Research Assistant to Dr. Kajal Gulati**, Purdue University — 2021–2024
+* **Research Associate to Dr. Subrata Sarkar & Dr. Jayati Sarkar**, IGIDR — 2019–2020
+* **Research Assistant to Dr. Subrata Sarkar**, IGIDR — 2017–2019
 
 Awards & Fellowships
 ======
-* **Uma Lele Prize for Best Contributed Paper on Gender**, International Conference for Agricultural Economics — *2024*
-* **Ludwig Kruhe Fellowship**, Purdue University — *2024* (USD 68,766.15)
-* **Junior Research Fellowship (JRF)**, University Grants Commission (India) — *2017*
+* **Uma Lele Prize for Best Contributed Paper on Gender**, International Conference for Agricultural Economics — 2024
+* **Ludwig Kruhe Fellowship**, Purdue University — 2024 (USD 68,766.15)
+* **Junior Research Fellowship (JRF)**, University Grants Commission (India) — 2017
 
 Grants
 ======
-* **Jim and Neta Hicks Graduate Student Small Grant Program**, Purdue University — *2023* (USD 7,500)
-
-Working Papers
-======
-* **Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh** (Job Market Paper)
-* **Agricultural Mechanization and Gendered Structural Transformation in India** (with Kajal Gulati & Sarah Bird)
-* **Agricultural Mechanization and Investment in Human Capital** (with Kajal Gulati)
-* **Gender Role Attitudes and Female Labor Participation: Evidence from Egypt** (with K. Saha & S. Yadav)
+* **Jim and Neta Hicks Graduate Student Small Grant Program**, Purdue University — 2023 (USD 7,500)
 
 Publications
 ======
@@ -50,6 +43,13 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
+
+Working Papers
+======
+* **Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh** (Job Market Paper)
+* **Agricultural Mechanization and Gendered Structural Transformation in India** (with Kajal Gulati & Sam Bird)
+* **Gender Role Attitudes and Female Labor Participation: Evidence from Egypt** (with Kajari Saha & Shraddha Yadav)
+* **Agricultural Mechanization and Investment in Human Capital** (with Kajal Gulati)
 
 Talks
 ======
@@ -67,20 +67,13 @@ Teaching
 {% endfor %}
 </ul>
 
-Additional Teaching / TA
+Refereeing Experience
 ======
-* **TA**, AGEC 217: Introductory Economics (Undergraduate), Purdue — *2024*
-* **TA**, Econometrics I (Graduate), IGIDR — *2018*
-
-Service
-======
-* **Referee**: *Agricultural Economics*; *Review of Development Economics*
+* *Agricultural Economics*; *Review of Development Economics*
 
 Skills
 ======
-* **Econometrics & Programming**: Stata (advanced), R, Python, Matlab, Julia, GAMS, RunGTAP  
-* **Spatial/Climate Data**: raster/terra, GDAL, exactextractr, NetCDF processing  
-* **Methods**: Experimental design, causal inference, IV/FE panels
+* I use STATA/R for most of my data analysis needs. For data manipulation especially for spatial/climate data I use R/QGIS. I use Python for web scraping and mathematical programming.
 
 Languages & Citizenship
 ======

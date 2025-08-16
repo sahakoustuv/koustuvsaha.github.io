@@ -1,15 +1,15 @@
 ---
 title: "Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh"
 collection: publications
-category: manuscripts
+category: working-papers
 permalink: /publication/jmp-risky-household-decisions
 date: 2025-01-01
-venue: "Job Market Paper"
-excerpt: "Job market paper."
+# venue: "Job Market Paper"
+excerpt: "Job Market Paper"
 paperurl: /files/JMP_draft.pdf
 # slidesurl: /files/Saha_2025_JMP_slides.pdf   # optional
 # bibtexurl: /files/saha2025jmp.bib            # optional
-citation: 'Saha, K. (2025). "Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh." Job Market Paper.'
+# citation: 'Saha, K. (2025). "Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh." Job Market Paper.'
 ---
 
 *Abstract*: In patriarchal societies, social norms restrict women’s roles within households to

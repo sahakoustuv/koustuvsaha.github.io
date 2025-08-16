@@ -1,7 +1,7 @@
 ---
 title: "Women’s Work and Agricultural Productivity Gaps in India"
 collection: publications
-category: published
+category: manuscripts
 # permalink: /publication/womens-work-productivity-gaps
 date: 2025-01-01
 venue: "American Journal of Agricultural Economics"

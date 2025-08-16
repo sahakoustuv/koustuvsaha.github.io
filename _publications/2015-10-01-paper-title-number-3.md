@@ -1,7 +1,7 @@
 ---
 title: "Women’s Land Ownership and Household Decisions: Implications for Child Health in Rural India"
 collection: publications
-category: published
+category: manuscripts
 permalink: /publication/womens-land-ownership-child-health
 date: 2023-01-01
 venue: "Axes of Sustainable Development and Growth in India: Essays in Honour of Professor Jyoti K. Parikh (Springer)"

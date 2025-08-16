@@ -1,5 +1,5 @@
 ---
-title: "Strategy and Coordination in RIsky Household Decisions: Evidence from Bangladesh"
+title: "Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh"
 excerpt: "Job Market Paper"
 collection: portfolio
 paperurl: /files/JMP_draft.pdf

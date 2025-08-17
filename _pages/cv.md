@@ -51,21 +51,17 @@ Working Papers
 * **Gender Role Attitudes and Female Labor Participation: Evidence from Egypt** (with Kajari Saha & Shraddha Yadav)
 * **Agricultural Mechanization and Investment in Human Capital** (with Kajal Gulati)
 
-Talks
+Conference Presentations
 ======
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
+* **“Agricultural Mechanization and Gendered Structural Transformation in India.”**  
+  Agricultural & Applied Economics Association (AAEA) Annual Meeting, New Orleans, LA — *July 2024*.
+* **“Women’s Work and Agricultural Productivity Gaps in India.”**  
+  Pacific Conference for Development Economics (PacDev), Stanford University, Stanford, CA — *March 2024*.
 
-Teaching
+Teaching Experience
 ======
-<ul>
-{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
+* **Teaching Assistant**, AGEC 217: Introductory Economics (Undergraduate), Purdue — *2024*
+* **Teaching Assistant**, Econometrics I (Graduate), IGIDR — *2018*
 
 Refereeing Experience
 ======

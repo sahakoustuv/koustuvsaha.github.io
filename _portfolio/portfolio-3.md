@@ -16,5 +16,5 @@ we find that the absolute distance between the gender role attitude index of wom
 and their husbands declines post marriage, suggesting that women may adjust their
 views to align more closely with a new, gendered marital identity."
 collection: portfolio
-paperurl: /files/Norms_draft.pdf
+#paperurl: /files/Norms_draft.pdf
 ---
